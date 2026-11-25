@@ -1,36 +1,25 @@
-# 🔥 AURA X – Free Fire Gaming Trainer
+# 🌑 Dark Aura
 
-A premium gaming training platform.
+A dark-themed Android app built with ❤️ by [imtazulalom-stack](https://github.com/imtazulalom-stack).
 
-## Features
-- Premium Gaming Dashboard
-- Aim Training Simulator
-- Headshot Accuracy Simulator
-- Sensitivity Guide
-- DPI Guide
-- Reaction Speed Test
-- Performance Statistics
-- Online Activation System
-- Admin Dashboard
+## ✨ Features
+- Dark, minimal UI
+- Smooth and lightweight
+- Easy to use
 
-## Activation System
-- Unique License Keys
-- Time-Based Activation
-- One-Time Activation
-- Automatic Expiry
-- Admin Key Management
+## 📱 Download
+Latest APK: go to the **Actions** tab → latest successful run → **Artifacts**.
 
-## Technology
-- Kotlin
-- HTML
-- CSS
-- JavaScript
-- Firebase
+## 🛠️ Build
+```bash
+git clone https://github.com/imtazulalom-stack/Dark-aura.git
+cd Dark-aura
+./gradlew assembleDebug
+```
+APK output: `app/build/outputs/apk/debug/`
 
-## Disclaimer
-AURA X is an independent educational gaming
-trainer. It does not modify Free Fire or
-implement cheating functionality.
+## 🤝 Contributing
+Pull requests are welcome. For major changes, please open an issue first.
 
-## Project
-AURA X Development Team
+## 📄 License
+MIT License
